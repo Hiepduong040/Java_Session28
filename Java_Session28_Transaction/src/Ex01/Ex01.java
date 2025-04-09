@@ -7,7 +7,7 @@ public class Ex01 {
     public static void main(String[] args) {
         String URL = "jdbc:mysql://localhost:3306";
         String USER = "root";
-        String PASS = "Csl2722005";
+        String PASS = "12345678";
         Connection conn = null;
 
         try {
