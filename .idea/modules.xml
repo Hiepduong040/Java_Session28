@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Session28.iml" filepath="$PROJECT_DIR$/.idea/Java_Session28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Session28_Transaction/Java_Session28_Transaction.iml" filepath="$PROJECT_DIR$/Java_Session28_Transaction/Java_Session28_Transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ra_ks23b_java_session28_transaction/ra_ks23b_java_session28_transaction.iml" filepath="$PROJECT_DIR$/ra_ks23b_java_session28_transaction/ra_ks23b_java_session28_transaction.iml" />
+    </modules>
+  </component>
+</project>
